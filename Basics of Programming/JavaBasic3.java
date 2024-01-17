@@ -5,8 +5,8 @@ public class JavaBasic3 {
         System.out.println("Enter Two Numbers:");
         int a=sc.nextInt();
         int b=sc.nextInt();
-        int c=a+b;
-        System.out.println(c);
+        int sum=a+b;
+        System.out.println(sum);
         sc.close();
     }
 }
